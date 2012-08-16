@@ -1,0 +1,4 @@
+wordsExtractor
+==============
+
+wordsExtractor for chinese
